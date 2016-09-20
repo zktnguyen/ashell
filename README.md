@@ -1,2 +1,2 @@
 # ashell
-a copy of the UNIX shell, all rights reserved to Christopher Nitta.
+a copy of the UNIX shell, all rights reserved to Christopher Nitta, 2015.
